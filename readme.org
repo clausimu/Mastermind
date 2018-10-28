@@ -3,3 +3,4 @@ This project will provide useful summary information about a Planets3 empire. I 
 * TODO
 1. [ ] Use version control (git) to track changes and manage the project.
 2. [ ] Use R for calculations and data output.
+3. [ ] Maybe combine with Python for data input?
